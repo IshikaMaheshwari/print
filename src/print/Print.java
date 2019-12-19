@@ -1,6 +1,6 @@
 package print;
 public class Print {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
 
         System.out.println("Hi Git print changed message added again f1");
     }
